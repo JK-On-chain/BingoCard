@@ -14,7 +14,7 @@ item BINGO and JKColor is game data.
 Can call two item via tokenId to dev Bingo game.
 
 
-API:
+ABI:
 
 
 [
