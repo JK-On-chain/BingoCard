@@ -16,8 +16,8 @@ Can call two item via tokenId to dev Bingo game.
 
 ABI:
 
-
-
+```
+[
 	{
 		"inputs": [
 			{
@@ -75,6 +75,8 @@ ABI:
 		"stateMutability": "pure",
 		"type": "function"
 	}
+]
+```
 
 
 
