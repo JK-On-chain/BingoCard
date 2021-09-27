@@ -7,12 +7,15 @@ opensea:
 https://opensea.io/collection/bingocard
 
 
-#How to play:
+# How to play:
 
 item BINGO and JKColor is game data.
+
 Can call two item via tokenId to dev Bingo game.
 
+
 API:
+
 
 [
 	{
@@ -73,3 +76,7 @@ API:
 		"type": "function"
 	}
 ]
+
+
+
+# JK
